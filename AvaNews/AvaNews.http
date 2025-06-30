@@ -1,0 +1,6 @@
+@AvaNews_HostAddress = http://localhost:5015
+
+GET {{AvaNews_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
