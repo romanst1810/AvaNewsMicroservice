@@ -1,4 +1,5 @@
-Solution 1: Microservice Architecture with Message Queue  
+Microservice Architecture with Message Queue  
+
 Architecture Overview
 Built as a distributed system with event-driven ingestion and processing.
 
